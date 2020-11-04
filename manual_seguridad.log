@@ -1,0 +1,218 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.31)  3 NOV 2020 21:03
+entering extended mode
+**"/home/juan/Documentos/Universidad/Tutoria/reuniones/manual de seguridad/manual_seguridad.tex"
+("/home/juan/Documentos/Universidad/Tutoria/reuniones/manual de seguridad/manual_seguridad.tex"
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-10-05> xparse <2020-03-03> (/usr/local/share/miktex-texmf/tex/latex/base/book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/share/miktex-texmf/tex/latex/base/bk10.clo
+File: bk10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@chapter=\count176
+\c@section=\count177
+\c@subsection=\count178
+\c@subsubsection=\count179
+\c@paragraph=\count180
+\c@subparagraph=\count181
+\c@figure=\count182
+\c@table=\count183
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/home/juan/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/share/miktex-texmf/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (/usr/local/share/miktex-texmf/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/local/share/miktex-texmf/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count184
+\Gm@cntv=\count185
+\c@Gm@tempcnt=\count186
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks16
+ (/home/juan/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg)) (/usr/local/share/miktex-texmf/tex/generic/babel/babel.sty
+Package: babel 2020/10/06 3.50 The Babel package
+ (/usr/local/share/miktex-texmf/tex/generic/babel/babel.def
+File: babel.def 2020/10/06 3.50 Babel common definitions
+\babel@savecnt=\count187
+\U@D=\dimen147
+\l@babelnohyphens=\language79
+ (/usr/local/share/miktex-texmf/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count188
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(/usr/local/share/miktex-texmf/tex/latex/arabi/bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (/home/juan/.miktex/texmfs/install/tex/latex/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks17
+\es@quotdepth=\count189
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+)) (/usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count190
+\l__pdf_internal_box=\box47
+) ("/home/juan/Documentos/Universidad/Tutoria/reuniones/manual de seguridad/manual_seguridad.aux"
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `manual_seguridad.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(56.9055pt, 512.1496pt, 28.45277pt)
+* v-part:(T,H,B)=(56.9055pt, 569.05511pt, 219.08623pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.1496pt
+* \textheight=569.05511pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-43.81721pt
+* \topmargin=-45.43198pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 7.
+[1
+
+
+{/home/juan/.miktex/texmfs/data/pdftex/config/pdftex.map}] [2
+
+] ("/home/juan/Documentos/Universidad/Tutoria/reuniones/manual de seguridad/manual_seguridad.toc"
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+)
+\tf@toc=\write3
+\openout3 = `manual_seguridad.toc'.
+
+ [3]
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+ [4
+
+]
+Cap\'{\i }tulo 1.
+[5]
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
+ [6
+
+]
+Cap\'{\i }tulo 2.
+[7]
+LaTeX Info: Redefining \. on input line 50.
+LaTeX Info: Redefining \% on input line 50.
+ [8
+
+]
+Cap\'{\i }tulo 3.
+[9]
+LaTeX Info: Redefining \. on input line 121.
+LaTeX Info: Redefining \% on input line 121.
+ [10]
+Cap\'{\i }tulo 4.
+[11
+
+]
+LaTeX Info: Redefining \. on input line 138.
+LaTeX Info: Redefining \% on input line 138.
+ [12
+
+]
+Cap\'{\i }tulo 5.
+[13]
+LaTeX Info: Redefining \. on input line 237.
+LaTeX Info: Redefining \% on input line 237.
+ [14]
+LaTeX Info: Redefining \. on input line 301.
+LaTeX Info: Redefining \% on input line 301.
+ [15]
+LaTeX Info: Redefining \. on input line 372.
+LaTeX Info: Redefining \% on input line 372.
+ [16]
+LaTeX Info: Redefining \. on input line 412.
+LaTeX Info: Redefining \% on input line 412.
+ [17] ("/home/juan/Documentos/Universidad/Tutoria/reuniones/manual de seguridad/manual_seguridad.aux"
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 2143 strings out of 480238
+ 32230 string characters out of 2887713
+ 329893 words of memory out of 3000000
+ 18730 multiletter control sequences out of 15000+200000
+ 540908 words of font info for 48 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 66i,7n,72p,273b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
+Output written on "/home/juan/Documentos/Universidad/Tutoria/reuniones/manual de seguridad/manual_seguridad.pdf" (17 pages, 117225 bytes).
+PDF statistics:
+ 81 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

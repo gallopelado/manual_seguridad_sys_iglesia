@@ -1,0 +1,134 @@
+PWD /home/juan/Documentos/Universidad/Tutoria/reuniones/manual de seguridad
+INPUT /home/juan/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
+INPUT /home/juan/Documentos/Universidad/Tutoria/reuniones/manual de seguridad/manual_seguridad.tex
+OUTPUT /home/juan/Documentos/Universidad/Tutoria/reuniones/manual de seguridad/manual_seguridad.log
+INPUT /usr/local/share/miktex-texmf/tex/latex/base/book.cls
+INPUT /usr/local/share/miktex-texmf/tex/latex/base/book.cls
+INPUT /usr/local/share/miktex-texmf/tex/latex/base/book.cls
+INPUT /usr/local/share/miktex-texmf/tex/latex/base/book.cls
+INPUT /usr/local/share/miktex-texmf/tex/latex/base/book.cls
+INPUT /usr/local/share/miktex-texmf/tex/latex/base/book.cls
+INPUT /usr/local/share/miktex-texmf/tex/latex/base/book.cls
+INPUT /usr/local/share/miktex-texmf/tex/latex/base/book.cls
+INPUT /usr/local/share/miktex-texmf/tex/latex/base/book.cls
+INPUT /usr/local/share/miktex-texmf/tex/latex/base/book.cls
+INPUT /usr/local/share/miktex-texmf/tex/latex/base/bk10.clo
+INPUT /usr/local/share/miktex-texmf/tex/latex/base/bk10.clo
+INPUT /usr/local/share/miktex-texmf/tex/latex/base/bk10.clo
+INPUT /usr/local/share/miktex-texmf/tex/latex/base/bk10.clo
+INPUT /home/juan/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /home/juan/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /home/juan/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /home/juan/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /home/juan/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /home/juan/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /home/juan/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /home/juan/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /home/juan/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /home/juan/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /usr/local/share/miktex-texmf/tex/latex/graphics/keyval.sty
+INPUT /usr/local/share/miktex-texmf/tex/latex/graphics/keyval.sty
+INPUT /usr/local/share/miktex-texmf/tex/latex/graphics/keyval.sty
+INPUT /usr/local/share/miktex-texmf/tex/latex/graphics/keyval.sty
+INPUT /usr/local/share/miktex-texmf/tex/latex/graphics/keyval.sty
+INPUT /usr/local/share/miktex-texmf/tex/latex/graphics/keyval.sty
+INPUT /usr/local/share/miktex-texmf/tex/latex/graphics/keyval.sty
+INPUT /usr/local/share/miktex-texmf/tex/latex/graphics/keyval.sty
+INPUT /usr/local/share/miktex-texmf/tex/latex/graphics/keyval.sty
+INPUT /usr/local/share/miktex-texmf/tex/latex/graphics/keyval.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/iftex/ifvtex.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/iftex/ifvtex.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/iftex/ifvtex.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/iftex/ifvtex.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/iftex/ifvtex.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/iftex/ifvtex.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/iftex/ifvtex.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/iftex/ifvtex.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/iftex/ifvtex.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/iftex/ifvtex.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/iftex/iftex.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/iftex/iftex.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/iftex/iftex.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/iftex/iftex.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/iftex/iftex.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/iftex/iftex.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/iftex/iftex.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/iftex/iftex.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/iftex/iftex.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/iftex/iftex.sty
+INPUT /home/juan/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT /home/juan/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT /home/juan/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT /home/juan/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT /usr/local/share/miktex-texmf/tex/generic/babel/babel.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/babel/babel.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/babel/babel.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/babel/babel.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/babel/babel.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/babel/babel.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/babel/babel.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/babel/babel.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/babel/babel.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/babel/babel.sty
+INPUT /usr/local/share/miktex-texmf/tex/generic/babel/babel.def
+INPUT /usr/local/share/miktex-texmf/tex/generic/babel/txtbabel.def
+INPUT /usr/local/share/miktex-texmf/tex/latex/arabi/bblopts.cfg
+INPUT /usr/local/share/miktex-texmf/tex/latex/arabi/bblopts.cfg
+INPUT /usr/local/share/miktex-texmf/tex/latex/arabi/bblopts.cfg
+INPUT /usr/local/share/miktex-texmf/tex/latex/arabi/bblopts.cfg
+INPUT /home/juan/.miktex/texmfs/install/tex/latex/babel-spanish/spanish.ldf
+INPUT /home/juan/.miktex/texmfs/install/tex/latex/babel-spanish/spanish.ldf
+INPUT /home/juan/.miktex/texmfs/install/tex/latex/babel-spanish/spanish.ldf
+INPUT /home/juan/.miktex/texmfs/install/tex/latex/babel-spanish/spanish.ldf
+INPUT /usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /home/juan/Documentos/Universidad/Tutoria/reuniones/manual de seguridad/manual_seguridad.aux
+INPUT /home/juan/Documentos/Universidad/Tutoria/reuniones/manual de seguridad/manual_seguridad.aux
+INPUT /home/juan/Documentos/Universidad/Tutoria/reuniones/manual de seguridad/manual_seguridad.aux
+OUTPUT /home/juan/Documentos/Universidad/Tutoria/reuniones/manual de seguridad/manual_seguridad.aux
+INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmsy6.tfm
+OUTPUT /home/juan/Documentos/Universidad/Tutoria/reuniones/manual de seguridad/manual_seguridad.pdf
+INPUT /home/juan/.miktex/texmfs/data/pdftex/config/pdftex.map
+INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmsl10.tfm
+INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /home/juan/Documentos/Universidad/Tutoria/reuniones/manual de seguridad/manual_seguridad.toc
+INPUT /home/juan/Documentos/Universidad/Tutoria/reuniones/manual de seguridad/manual_seguridad.toc
+INPUT /home/juan/Documentos/Universidad/Tutoria/reuniones/manual de seguridad/manual_seguridad.toc
+INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmbx10.tfm
+OUTPUT /home/juan/Documentos/Universidad/Tutoria/reuniones/manual de seguridad/manual_seguridad.toc
+INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /home/juan/Documentos/Universidad/Tutoria/reuniones/manual de seguridad/manual_seguridad.aux
+INPUT /usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT /usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT /usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmsl10.pfb
+INPUT /usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmsl10.pfb
